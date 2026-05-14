@@ -36,7 +36,8 @@ Após o tratamento, os dados foram importados para o Power BI e organizados em u
 Também foi criada uma **tabela de medidas**, com o objetivo de centralizar os cálculos em DAX e deixar o modelo mais organizado.
 
 ---
-
+![Imagem 1](Resultado.png)
+![Imagem 2](Resultado2.png)
 ## Principais métricas
 
 Entre as medidas desenvolvidas no projeto, estão:
